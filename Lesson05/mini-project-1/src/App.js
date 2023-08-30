@@ -65,7 +65,7 @@ class App extends Component {
     let elementForm = this.state.isToggle===true? 
         <Form renderActionName={this.state.actionName} 
               renderStudent={this.state.student}
-              onSubmit = {this.handleSubmit}/> : "";
+              onSubmit = {this.handleSubmit} /> : "";
     return (
       <div className="container-fluid">
         <Title />
