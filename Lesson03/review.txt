@@ -1,9 +1,0 @@
-1. Cấu trúc ứng dụng reactjs
-2. JSX: (transform.tool)
-3. Components
-    - Function Component
-    - Class Component
-4. props => Trao đổi dữ liệu giữa các component 
-5. state: là đối tượng quản lý dữ liệu trong class component 
-6. Vòng đời của một component 
-
